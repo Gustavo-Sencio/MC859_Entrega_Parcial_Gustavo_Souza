@@ -5,7 +5,7 @@ Este repositório contém a instância de grafo e os dados usados para a constu�
 ## Conteúdo do repositório
 
 - `coauthorship.graphml`: instância principal do grafo de coautoria
-- `analysis_output/`: Dados iniciais em CSV
+- `OutrosDados/`: Dados iniciais em CSV
 
 ## Definição do grafo
 
